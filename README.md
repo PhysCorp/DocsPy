@@ -1,5 +1,5 @@
 # Docs.py
-### A basic Python Class for generating API documentation as a PDF.
+### A basic python script for "generating" API documentation as a PDF.
 
 ## Notes
 Tested on Fedora 37
